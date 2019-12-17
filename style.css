@@ -1,0 +1,24 @@
+.inner {
+    width: 1170px;
+    margin: 0px auto;
+}
+
+.wp-header {
+    background-color: #ffeaa7;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+h2 {
+    font-size: 35px;
+    display: contents;
+}
+
+.size {
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+li {
+    list-style: none;
+}
